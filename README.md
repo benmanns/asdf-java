@@ -79,5 +79,5 @@ Here's a list of repos with similar affects that were heavily referenced here:
 
 ## Development
 
-- asdf's [creating-plugins.md](https://github.com/asdf-vm/asdf/blob/master/docs/creating-plugins.md)
+- asdf's [plugins-create.md](https://github.com/asdf-vm/asdf/blob/master/docs/plugins-create.md)
 - [Bash Hackers Wiki](http://wiki.bash-hackers.org/)
